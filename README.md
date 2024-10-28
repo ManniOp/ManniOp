@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**ManniOp/ManniOp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
+Hi, I'm Manpreet singh, a web student learning about building modern websites.
 
-Here are some ideas to get you started:
+## Skills that I am learning 
+- HTML, CSS, JavaScript
+- PHP and MySQL
+- WordPress Development
+- Git Version Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are the projects I am working on
+- [COMING SOON]
+
+## Get in Touch
+- Email: [contact.singh](mailto:manniop73@gmail.com)
+- LinkedIn: [Manpreet Singh](https://www.linkedin.com/in/manpreet-singh-162a26288)
+
+## My Portfolio
+Check out my [portfolio website](http://manniop.com) to see my work and projects!
+
+
